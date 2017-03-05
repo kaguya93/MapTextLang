@@ -128,11 +128,11 @@
 	}
 	"Door opening in 80 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"大门在100秒后打开！"
 	}
 	"Remaining 40 seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"还有40秒！"
 	}
 	"Admin pressed rtv button"
 	{
